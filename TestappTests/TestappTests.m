@@ -1,14 +1,14 @@
 //
-//  App1Tests.m
-//  App1Tests
+//  TestappTests.m
+//  TestappTests
 //
 //  Created by AC INFOTECH INC on 5/5/14.
 //  Copyright (c) 2014 __MyCompanyName__. All rights reserved.
 //
 
-#import "App1Tests.h"
+#import "TestappTests.h"
 
-@implementation App1Tests
+@implementation TestappTests
 
 - (void)setUp
 {
@@ -26,7 +26,7 @@
 
 - (void)testExample
 {
-    STFail(@"Unit tests are not implemented yet in App1Tests");
+    STFail(@"Unit tests are not implemented yet in TestappTests");
 }
 
 @end
